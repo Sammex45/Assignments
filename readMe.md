@@ -1,6 +1,3 @@
 
-# FLEX BOX
-
-This is a Web pages of Flexbox Cards and Grid boxes
-
-
+#Git and Github. 
+We learnt how to use git and github and i was able to push my weekly task on github. 
